@@ -7,6 +7,13 @@ Windows interface.
 The standalone **Windows x64** executable includes Python, ffmpeg, Node.js, and
 the YouTube JavaScript challenge scripts. Move one file and double-click to run.
 
+[![Download YTDL.exe for Windows](https://img.shields.io/badge/Download-YTDL.exe%20for%20Windows-0078D4?style=for-the-badge&logo=windows)](https://github.com/meachsenbroseth/youtube-video-downloander/releases/latest/download/YTDL.exe)
+
+Download the latest **[YTDL.exe](https://github.com/meachsenbroseth/youtube-video-downloander/releases/latest/download/YTDL.exe)**
+or browse **[all releases](https://github.com/meachsenbroseth/youtube-video-downloander/releases)**.
+No installation is required. This repository is private, so sign in to a GitHub
+account with repository access to download the executable.
+
 ## Contents
 
 - [Features](#features)
@@ -40,8 +47,9 @@ Available formats depend on the video and the site's access restrictions.
 
 ## Run the Windows app
 
-1. Get the supplied **`YTDL.exe`**. When a GitHub release is available, download
-   the executable from its **Assets** section.
+1. Download **[YTDL.exe for Windows x64](https://github.com/meachsenbroseth/youtube-video-downloander/releases/latest/download/YTDL.exe)**.
+   You can also find it in the **Assets** section of the
+   [latest release](https://github.com/meachsenbroseth/youtube-video-downloander/releases/latest).
 2. Move it to a folder of your choice.
 3. Double-click **`YTDL.exe`**.
 
